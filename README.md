@@ -57,7 +57,7 @@ A modern, responsive automotive landing page with a complete admin panel built u
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/autocare-pro.git
+git clone https://github.com/adhityasukma/autocare-pro.git
 cd autocare-pro
 ```
 
