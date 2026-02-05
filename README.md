@@ -210,7 +210,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/autocare-pro/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/adhityasukma/autocare-pro/issues).
 
 ---
 
